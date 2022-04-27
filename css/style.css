@@ -1,3 +1,8 @@
 .border {
     background-color: coral;
 }
+
+/* this is thye code of the feature-1 branch  */
+img {
+    background-origin: padding-box;
+}
